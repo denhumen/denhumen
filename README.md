@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denhumen&label=Profile%20views&color=0e75b6&style=flat" alt="denhumen" /> </p>
 
-- 🔭 I’m currently working at **abacus edv-losüngen GmbH**
+- 🔭 I’m currently working at **abacus edv-lösungen GmbH**
 
 - 🌱 I’m currently learning **Python, .NET MAUI, Java**
 
