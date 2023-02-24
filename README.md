@@ -23,6 +23,7 @@
 <a href="https://stackoverflow.com/users/20880881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20880881" height="30" width="40" /></a>
 <a href="https://instagram.com/den_humen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="den_humen" height="30" width="40" /></a>
 <a href="https://t.me/denhumen" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="denhumen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/denis-humeniuk-532917225" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="denhumen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
