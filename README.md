@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [comming soon](comming soon)
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **"Software and cathedrals are much the same — first we build them, then we pray."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
